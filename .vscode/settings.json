@@ -1,0 +1,14 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+	"editor.insertSpaces": false,
+  "editor.wrappingIndent": "deepIndent",
+  "editor.stickyTabStops": false,
+	"editor.autoIndent": "full",
+	"emmet.includeLanguages": {
+		" \"javascript\"": "\"javascriptreact\""
+	},
+	"emmet.excludeLanguages": [],
+	"emmet.triggerExpansionOnTab": true,
+	"tailwindCSS.emmetCompletions": true
+}
